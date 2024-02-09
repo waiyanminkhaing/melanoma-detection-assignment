@@ -57,7 +57,7 @@ Visualization of Accuracy and Loss Trends in the base model
 Visualization of Accuracy and Loss Trends in the argumented model
 ![Alt text](argumented_model_visualization.png)
 
-### Final Model (On Argumented Data)
+### Final Model
 
 Visualization of Accuracy and Loss Trends in the final model
 ![Alt text](final_model_visualization.png)
