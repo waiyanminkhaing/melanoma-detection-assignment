@@ -26,7 +26,7 @@ The dataset encompasses a range of diseases including:
 - Squamous cell carcinoma
 - Vascular lesion
 
-Sample Images
+#### Sample Images
 ![Alt text](sample_images.png)
 
 ## Steps
