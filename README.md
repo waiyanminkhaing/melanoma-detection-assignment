@@ -50,17 +50,17 @@ Convolutional Neural Network (CNN)
 ### Base Model
 
 Visualization of Accuracy and Loss Trends in the base model
-![Alt text](base_model_visualizaion.png)
+![Alt text](base_model_visualization.png)
 
 ### Augmented Model
 
 Visualization of Accuracy and Loss Trends in the argumented model
-![Alt text](augmented_model_visualizaion.png)
+![Alt text](argumented_model_visualization.png)
 
 ### Final Model (On Argumented Data)
 
 Visualization of Accuracy and Loss Trends in the final model
-![Alt text](final_model_visualizaion.png)
+![Alt text](argumented_model_visualization)
 
 # Conclusion
 
