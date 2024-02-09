@@ -60,7 +60,7 @@ Visualization of Accuracy and Loss Trends in the argumented model
 ### Final Model (On Argumented Data)
 
 Visualization of Accuracy and Loss Trends in the final model
-![Alt text](argumented_model_visualization)
+![Alt text](final_model_visualization.png)
 
 # Conclusion
 
