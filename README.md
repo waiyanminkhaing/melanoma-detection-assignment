@@ -81,10 +81,10 @@ The observed trend indicates that as the model's accuracy improves, its loss dec
 
 ## Acknowledgements
 - An Introduction to Convolutional Neural Networks (CNNs)
-    https://www.datacamp.com/tutorial/introduction-to-convolutional-neural-networks-cnns
+    - https://www.datacamp.com/tutorial/introduction-to-convolutional-neural-networks-cnns
 
 - Image Classification Using CNN: Introduction and Tutorial
-    https://datagen.tech/guides/image-classification/image-classification-using-cnn/
+    - https://datagen.tech/guides/image-classification/image-classification-using-cnn/
 
 # Contact
 
